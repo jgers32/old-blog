@@ -24,10 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Julia Gersey's blog on academics, projects, and miscellaneous. 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://juliagersey.com/" # the base hostname & protocol for your site, e.g. http://example.com
-production_url : http://juliagersey.com/blog
-BASE_PATH : http://juliagersey.com/blog
 twitter_username: juliagersey
 github_username:  jgers32
+permalink: /:title
 
 # Build settings
 theme: minima
