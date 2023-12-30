@@ -23,7 +23,7 @@ email: jgersey20 [at] bw [dot] edu
 description: >- # this means to ignore newlines until "baseurl:"
   Julia Gersey's blog on academics, projects, and miscellaneous. 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://jgers32.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://juliagersey.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: juliagersey
 github_username:  jgers32
 
